@@ -1,15 +1,15 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://https://hycore.github.io/betawebsite/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.19' -->
-<!-- generated-on='April 18, 2024 11:06 am' -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='https://hycore.github.io/betawebsite/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.19' -->
+<!-- generated-on='April 18, 2024 11:10 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
-		<loc>https://https://hycore.github.io/betawebsite/</loc>
+		<loc>https://hycore.github.io/betawebsite/</loc>
 		<lastmod>2024-04-18T09:25:21+00:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
-		<loc>https://https://hycore.github.io/betawebsite/sitemap.html</loc>
+		<loc>https://hycore.github.io/betawebsite/sitemap.html</loc>
 		<lastmod>2024-04-18T09:25:21+00:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
-</urlset><!-- Request ID: 816c13117d79b07e609d1aeba7ccabb7; Queries for sitemap: 4; Total queries: 13; Seconds: 0; Memory for sitemap: 1KB; Total memory: 6MB -->
+</urlset><!-- Request ID: d5a39b4eabcc0d154ab6197459a3d21b; Queries for sitemap: 4; Total queries: 13; Seconds: 0; Memory for sitemap: 1KB; Total memory: 8MB -->
