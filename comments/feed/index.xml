@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for VH Bières Belges	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="betawebsite//comments/feed/" rel="self" type="application/rss+xml" />
+	<link>betawebsite//</link>
 	<description>VH Bières Belges</description>
 	<lastBuildDate>Thu, 18 Apr 2024 09:25:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -1,129 +1,129 @@
-<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.19' -->
-<!-- generated-on='April 18, 2024 10:10 am' -->
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='betawebsite//wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.19' -->
+<!-- generated-on='April 18, 2024 10:18 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
-		<loc>/evolution-de-notre-activite/</loc>
+		<loc>betawebsite//evolution-de-notre-activite/</loc>
 		<lastmod>2019-01-24T07:55:33+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/ducasse-de-la-biere/</loc>
+		<loc>betawebsite//ducasse-de-la-biere/</loc>
 		<lastmod>2020-11-20T09:50:39+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/chocolats-belges/</loc>
+		<loc>betawebsite//chocolats-belges/</loc>
 		<lastmod>2020-10-27T16:26:21+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/bieres-de-noel-calendriers-de-lavent/</loc>
+		<loc>betawebsite//bieres-de-noel-calendriers-de-lavent/</loc>
 		<lastmod>2023-11-03T07:35:15+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/nouvelles-sortes/</loc>
+		<loc>betawebsite//nouvelles-sortes/</loc>
 		<lastmod>2018-02-10T21:31:57+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/vehicules/</loc>
+		<loc>betawebsite//vehicules/</loc>
 		<lastmod>2018-02-10T21:31:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/evenements/</loc>
+		<loc>betawebsite//evenements/</loc>
 		<lastmod>2018-02-10T21:31:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/coffrets/</loc>
+		<loc>betawebsite//coffrets/</loc>
 		<lastmod>2018-02-10T21:31:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/galerie/</loc>
+		<loc>betawebsite//galerie/</loc>
 		<lastmod>2020-11-20T10:07:19+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/materiel/</loc>
+		<loc>betawebsite//materiel/</loc>
 		<lastmod>2020-10-27T16:25:00+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/jus-de-fruit-looza/</loc>
+		<loc>betawebsite//jus-de-fruit-looza/</loc>
 		<lastmod>2018-02-10T21:31:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/bouteilles/</loc>
+		<loc>betawebsite//bouteilles/</loc>
 		<lastmod>2018-02-10T21:31:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/plan-du-site/</loc>
+		<loc>betawebsite//plan-du-site/</loc>
 		<lastmod>2018-02-10T21:31:59+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/mentions-legales/</loc>
+		<loc>betawebsite//mentions-legales/</loc>
 		<lastmod>2018-02-10T21:31:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/contact/</loc>
+		<loc>betawebsite//contact/</loc>
 		<lastmod>2018-02-10T21:31:58+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/futs/</loc>
+		<loc>betawebsite//futs/</loc>
 		<lastmod>2020-10-27T15:50:46+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/fruitees/</loc>
+		<loc>betawebsite//fruitees/</loc>
 		<lastmod>2018-11-12T10:27:27+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/blanches/</loc>
+		<loc>betawebsite//blanches/</loc>
 		<lastmod>2018-11-12T10:30:15+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/ambrees/</loc>
+		<loc>betawebsite//ambrees/</loc>
 		<lastmod>2018-11-12T10:28:46+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/brunes/</loc>
+		<loc>betawebsite//brunes/</loc>
 		<lastmod>2018-11-12T10:29:32+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
 	<url>
-		<loc>/blondes/</loc>
+		<loc>betawebsite//blondes/</loc>
 		<lastmod>2018-11-12T10:31:14+00:00</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 73bdca1ce6d6731ae4eee802f5e72524; Queries for sitemap: 5; Total queries: 14; Seconds: 0; Memory for sitemap: 1KB; Total memory: 8MB -->
+</urlset><!-- Request ID: 42834f0d4a26ec4e03ce5d4204aeb3ba; Queries for sitemap: 5; Total queries: 14; Seconds: 0; Memory for sitemap: 1KB; Total memory: 8MB -->
