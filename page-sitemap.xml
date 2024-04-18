@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet type='text/xsl' href='/wp-content/plugins/google-sitemap-generator/sitemap.xsl'?><!-- sitemap-generator-url='http://www.arnebrachhold.de/' sitemap-generator-version='4.1.19' -->
-<!-- generated-on='April 18, 2024 10:02 am' -->
+<!-- generated-on='April 18, 2024 10:10 am' -->
 <urlset xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd' xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>	<url>
 		<loc>/evolution-de-notre-activite/</loc>
 		<lastmod>2019-01-24T07:55:33+00:00</lastmod>
@@ -126,4 +126,4 @@
 		<changefreq>weekly</changefreq>
 		<priority>0.6</priority>
 	</url>
-</urlset><!-- Request ID: 615642fbc0b53c6fb0270e04fbdbaa0c; Queries for sitemap: 5; Total queries: 14; Seconds: 0; Memory for sitemap: 1KB; Total memory: 8MB -->
+</urlset><!-- Request ID: 73bdca1ce6d6731ae4eee802f5e72524; Queries for sitemap: 5; Total queries: 14; Seconds: 0; Memory for sitemap: 1KB; Total memory: 8MB -->
